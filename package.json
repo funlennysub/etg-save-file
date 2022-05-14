@@ -1,0 +1,12 @@
+{
+  "name": "etg-save-file",
+  "version": "1.0.0",
+  "description": "Script to encrypt/decrypt Enter the Gungeon save files",
+  "main": "main.js",
+  "scripts": {
+    "run": "node main.js"
+  },
+  "keywords": [],
+  "author": "funlennysub",
+  "license": "MIT"
+}
